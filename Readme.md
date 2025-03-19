@@ -18,12 +18,12 @@ Run the following command in your React project:<br>
 - **npm install @reduxjs/toolkit react-redux**
 
 ## **Step 2: Create a Redux Store**
-/src
- ├── /store
- │   ├── store.js
- │   ├── counterSlice.js
- ├── App.js
- ├── index.js
+/src <br>
+ ├── /store <br>
+ │   ├── store.js <br>
+ │   ├── counterSlice.js <br>
+ ├── App.js <br>
+ ├── index.js <br>
 
 ## **Step 3: Create a Redux Slice**
 A slice contains reducers and actions for a specific part of the state.
