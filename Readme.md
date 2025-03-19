@@ -14,8 +14,8 @@ Redux is a predictable **state management** tool for JavaScript applications. It
 ---
 
 ## **Step 1: Install Redux and React-Redux**
-Run the following command in your React project:
-npm install @reduxjs/toolkit react-redux
+Run the following command in your React project:<br>
+- **npm install @reduxjs/toolkit react-redux**
 
 ## **Step 2: Create a Redux Store**
 /src
